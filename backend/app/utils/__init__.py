@@ -1,0 +1,1 @@
+from .classify_disease import load_model
